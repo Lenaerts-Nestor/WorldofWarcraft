@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "name": "The Horde",
+        "guildmaster": "Garrosh",
+        "factionUrl": "https://www.wowhead.com/icon=2173920/ui-hordeicon",
+        "foundedYear": 2010,
+        "Moto": "LOKTHAR"
+    },
+    {
+        "id": 1,
+        "name": "The Alliance",
+        "guildmaster": "Anduin",
+        "factionUrl": "https://www.wowhead.com/icon=2565243/ui-alliance-7legionmedal",
+        "foundedYear": 2010,
+        "Moto": "The light is the way"
+    },
+    {
+        "id": 2,
+        "name": "Neutral",
+        "guildmaster": "None",
+        "factionUrl": "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
+        "foundedYear": 1400,
+        "Moto": "LETS SEE WHO RULES"
+    },
+    {
+        "id": 3,
+        "name": "The Legion",
+        "guildmaster": "Sargeras",
+        "factionUrl": "https://www.wowhead.com/icon=254117/achievement-dungeon-ulduarraid-titan-01",
+        "foundedYear": 0,
+        "Moto": "I AM LEGIONNN"
+    }
+
+]

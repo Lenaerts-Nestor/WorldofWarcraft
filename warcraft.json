@@ -1,0 +1,132 @@
+[
+    { 
+        "id":0, 
+        "name": "Thrall",
+        "FavoriteQoute": "Lokthar Hogar Brother of the Horde",
+        "age": 60,
+        "married": true,
+        "birthdate": "1980-08-21",
+        "favoriteImageUrl":  "https://www.wowhead.com/icon=626006/classicon-shaman",
+        "honorLevel": "Legendary",
+        "hobby": ["pvp", "pve", "being famous", "raiding"],
+        "Faction": 0
+
+    },
+    { 
+        "id":1, 
+        "name": "Uther",
+        "FavoriteQoute": "For the light",
+        "age": 45,
+        "married": false,
+        "birthdate": "1980-03-20",
+        "favoriteImageUrl":  "https://www.wowhead.com/icon=626003/classicon-paladin",
+        "honorLevel": "Legendary",
+        "hobby": ["pvp", "praying", "being famous"],
+        "Faction": 1
+
+    },
+    { 
+        "id":2, 
+        "name": "Garrosh",
+        "FavoriteQoute": "COWARD",
+        "age": 38,
+        "married": false,
+        "birthdate": "2000-08-21",
+        "favoriteImageUrl":  "https://www.wowhead.com/icon=626008/classicon-warrior",
+        "honorLevel": "GodLike",
+        "hobby": ["pvp", "pve", "being famous", "raiding"],
+        "Faction": 0
+
+    },
+    { 
+        "id":3, 
+        "name": "Anduin",
+        "FavoriteQoute": "i dont want to fight",
+        "age": 25,
+        "married": false,
+        "birthdate": "2000-08-21",
+        "favoriteImageUrl":  "https://www.wowhead.com/icon=132092/ability-cheapshot",
+        "honorLevel": "Coward",
+        "hobby": ["pve", "praying"],
+        "Faction": 1
+
+    },
+    { 
+        "id":5, 
+        "name": "Ilidan",
+        "FavoriteQoute": "The legion wil fall",
+        "age": 700,
+        "married": false,
+        "birthdate": "1300-01-01",
+        "favoriteImageUrl":  "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
+        "honorLevel": "Animalistic",
+        "hobby": ["demon hunting"],
+        "Faction": 2
+
+    }
+    ,{ 
+        "id":6, 
+        "name": "Sargeras",
+        "FavoriteQoute": "Azeroth has to be killed",
+        "age": 57021,
+        "married": false,
+        "birthdate": "",
+        "favoriteImageUrl":  "https://www.wowhead.com/icon=254117/achievement-dungeon-ulduarraid-titan-01",
+        "honorLevel": "GodLike",
+        "hobby": ["destroying solar systems"],
+        "Faction":3 
+
+    }
+    ,{ 
+        "id":7, 
+        "name": "Sylvanas",
+        "FavoriteQoute": "FOR THE HOOOOOOOOORRDDEEEE",
+        "age": 47,
+        "married": false,
+        "birthdate": "1970-08-21",
+        "favoriteImageUrl": "https://www.wowhead.com/icon=626006/classicon-shaman",
+        "honorLevel": "Legendary",
+        "hobby": ["pvp", "pve", "being famous", "raiding"],
+        "Faction": 0
+
+    }
+    ,{ 
+        "id":8, 
+        "name": "Tyrande Whisperwind",
+        "FavoriteQoute": "ELUNEE IS DA WAYYY",
+        "age": 741,
+        "married": true,
+        "birthdate": "1280-08-21",
+        "favoriteImageUrl":  "https://www.wowhead.com/icon=955794/inv-staff-2h-draenorcrafted-d-02-c-alliance",
+        "honorLevel": "Animalistic",
+        "hobby": ["camping", "praying", "raiding"],
+        "Faction": 1
+
+    }
+    ,{ 
+        "id":9, 
+        "name": "Jaina",
+        "FavoriteQoute": "Magic is great",
+        "age": 32,
+        "married": false,
+        "birthdate": "1995-03-11",
+        "favoriteImageUrl": "https://www.wowhead.com/icon=571330/inv-alliancepvpmount",
+        "honorLevel": "Legendary",
+        "hobby": ["pvp"],
+        "Faction": 1
+
+    }
+    ,{ 
+        "id":10, 
+        "name": "Arthas",
+        "FavoriteQoute": "The end is coming , adalid",
+        "age": 37,
+        "married": false,
+        "birthdate": "1990-02-12",
+        "favoriteImageUrl":  "https://www.wowhead.com/icon=1499689/inv-mount-viciousalliancebearmount",
+        "honorLevel": "GodLike",
+        "hobby": ["killing"],
+        "Faction": 3
+
+    }
+]
