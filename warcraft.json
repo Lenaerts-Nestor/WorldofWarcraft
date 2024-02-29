@@ -9,7 +9,14 @@
         "favoriteImageUrl":  "https://www.wowhead.com/icon=626006/classicon-shaman",
         "honorLevel": "Legendary",
         "hobby": ["pvp", "pve", "being famous", "raiding"],
-        "Faction": 0
+        "Faction": {
+            "id": 0,
+            "name": "The Horde",
+            "guildmaster": "Garrosh",
+            "factionUrl": "https://www.wowhead.com/icon=2173920/ui-hordeicon",
+            "foundedYear": 2010,
+            "Moto": "LOKTHAR"
+        }
 
     },
     { 
@@ -22,7 +29,14 @@
         "favoriteImageUrl":  "https://www.wowhead.com/icon=626003/classicon-paladin",
         "honorLevel": "Legendary",
         "hobby": ["pvp", "praying", "being famous"],
-        "Faction": 1
+        "Faction": {
+            "id": 1,
+            "name": "The Alliance",
+            "guildmaster": "Anduin",
+            "factionUrl": "https://www.wowhead.com/icon=2565243/ui-alliance-7legionmedal",
+            "foundedYear": 2010,
+            "Moto": "The light is the way"
+        }
 
     },
     { 
@@ -48,7 +62,14 @@
         "favoriteImageUrl":  "https://www.wowhead.com/icon=132092/ability-cheapshot",
         "honorLevel": "Coward",
         "hobby": ["pve", "praying"],
-        "Faction": 1
+        "Faction": {
+            "id": 1,
+            "name": "The Alliance",
+            "guildmaster": "Anduin",
+            "factionUrl": "https://www.wowhead.com/icon=2565243/ui-alliance-7legionmedal",
+            "foundedYear": 2010,
+            "Moto": "The light is the way"
+        }
 
     },
     { 
@@ -61,7 +82,14 @@
         "favoriteImageUrl":  "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
         "honorLevel": "Animalistic",
         "hobby": ["demon hunting"],
-        "Faction": 2
+        "Faction": {
+            "id": 2,
+            "name": "Neutral",
+            "guildmaster": "None",
+            "factionUrl": "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
+            "foundedYear": 1400,
+            "Moto": "LETS SEE WHO RULES"
+        }
 
     }
     ,{ 
@@ -73,8 +101,15 @@
         "birthdate": "",
         "favoriteImageUrl":  "https://www.wowhead.com/icon=254117/achievement-dungeon-ulduarraid-titan-01",
         "honorLevel": "GodLike",
-        "hobby": ["destroying solar systems"],
-        "Faction":3 
+        "hobby": ["destroying solar systems", "pvp"],
+        "Faction":{
+            "id": 2,
+            "name": "Neutral",
+            "guildmaster": "None",
+            "factionUrl": "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
+            "foundedYear": 1400,
+            "Moto": "LETS SEE WHO RULES"
+        }
 
     }
     ,{ 
@@ -87,7 +122,14 @@
         "favoriteImageUrl": "https://www.wowhead.com/icon=626006/classicon-shaman",
         "honorLevel": "Legendary",
         "hobby": ["pvp", "pve", "being famous", "raiding"],
-        "Faction": 0
+        "Faction": {
+            "id": 0,
+            "name": "The Horde",
+            "guildmaster": "Garrosh",
+            "factionUrl": "https://www.wowhead.com/icon=2173920/ui-hordeicon",
+            "foundedYear": 2010,
+            "Moto": "LOKTHAR"
+        }
 
     }
     ,{ 
@@ -100,7 +142,14 @@
         "favoriteImageUrl":  "https://www.wowhead.com/icon=955794/inv-staff-2h-draenorcrafted-d-02-c-alliance",
         "honorLevel": "Animalistic",
         "hobby": ["camping", "praying", "raiding"],
-        "Faction": 1
+        "Faction": {
+            "id": 1,
+            "name": "The Alliance",
+            "guildmaster": "Anduin",
+            "factionUrl": "https://www.wowhead.com/icon=2565243/ui-alliance-7legionmedal",
+            "foundedYear": 2010,
+            "Moto": "The light is the way"
+        }
 
     }
     ,{ 
@@ -113,7 +162,14 @@
         "favoriteImageUrl": "https://www.wowhead.com/icon=571330/inv-alliancepvpmount",
         "honorLevel": "Legendary",
         "hobby": ["pvp"],
-        "Faction": 1
+        "Faction": {
+            "id": 1,
+            "name": "The Alliance",
+            "guildmaster": "Anduin",
+            "factionUrl": "https://www.wowhead.com/icon=2565243/ui-alliance-7legionmedal",
+            "foundedYear": 2010,
+            "Moto": "The light is the way"  
+        }
 
     }
     ,{ 
@@ -125,8 +181,15 @@
         "birthdate": "1990-02-12",
         "favoriteImageUrl":  "https://www.wowhead.com/icon=1499689/inv-mount-viciousalliancebearmount",
         "honorLevel": "GodLike",
-        "hobby": ["killing"],
-        "Faction": 3
+        "hobby": ["killing", "crusade"],
+        "Faction": {
+            "id": 2,
+            "name": "Neutral",
+            "guildmaster": "None",
+            "factionUrl": "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
+            "foundedYear": 1400,
+            "Moto": "LETS SEE WHO RULES"
+        }
 
     }
 ]
