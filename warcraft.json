@@ -6,7 +6,7 @@
         "age": 60,
         "married": true,
         "birthdate": "1980-08-21",
-        "favoriteImageUrl": "https://www.wowhead.com/icon=626006/classicon-shaman",
+        "profielImageUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Shaman_Orc_profiel.png",
         "honorLevel": "Legendary",
         "hobby": ["pvp", "pve", "being famous", "raiding"],
         "Faction": {
@@ -26,7 +26,7 @@
         "age": 45,
         "married": false,
         "birthdate": "1980-03-20",
-        "favoriteImageUrl":  "https://www.wowhead.com/icon=626003/classicon-paladin",
+        "profielImageUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Paladin_oldman_profiel.png",
         "honorLevel": "Legendary",
         "hobby": ["pvp", "praying", "being famous"],
         "Faction": {
@@ -46,7 +46,7 @@
         "age": 38,
         "married": false,
         "birthdate": "2000-08-21",
-        "favoriteImageUrl":  "https://www.wowhead.com/icon=626008/classicon-warrior",
+        "profielImageUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Warior_Orc_Profiel.png",
         "honorLevel": "GodLike",
         "hobby": ["pvp", "pve", "being famous", "raiding"],
         "Faction":  {
@@ -66,7 +66,7 @@
         "age": 25,
         "married": false,
         "birthdate": "2000-08-21",
-        "favoriteImageUrl":  "https://www.wowhead.com/icon=132092/ability-cheapshot",
+        "profielImageUrl":  "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Paladin_Youngman_profiel.png",
         "honorLevel": "Coward",
         "hobby": ["pve", "praying"],
         "Faction": {
@@ -86,14 +86,14 @@
         "age": 700,
         "married": false,
         "birthdate": "1300-01-01",
-        "favoriteImageUrl":  "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
+        "profielImageUrl":  "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Male_elf_demonhunter.png",
         "honorLevel": "Animalistic",
         "hobby": ["demon hunting"],
         "Faction": {
             "id": 2,
             "name": "Neutral",
             "guildmaster": "None",
-            "factionUrl": "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
+            "factionUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Neutral_flag.png",
             "foundedYear": 1400,
             "Moto": "LETS SEE WHO RULES"
         }
@@ -106,14 +106,14 @@
         "age": 57021,
         "married": false,
         "birthdate": "",
-        "favoriteImageUrl":  "https://www.wowhead.com/icon=254117/achievement-dungeon-ulduarraid-titan-01",
+        "profielImageUrl":  "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Sargeras.png",
         "honorLevel": "GodLike",
         "hobby": ["destroying solar systems", "pvp"],
         "Faction":{
             "id": 2,
             "name": "Neutral",
             "guildmaster": "None",
-            "factionUrl": "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
+            "factionUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Neutral_flag.png",
             "foundedYear": 1400,
             "Moto": "LETS SEE WHO RULES"
         }
@@ -126,7 +126,7 @@
         "age": 47,
         "married": false,
         "birthdate": "1970-08-21",
-        "favoriteImageUrl": "https://www.wowhead.com/icon=626006/classicon-shaman",
+        "profielImageUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Female_elf.png",
         "honorLevel": "Legendary",
         "hobby": ["pvp", "pve", "being famous", "raiding"],
         "Faction": {
@@ -146,7 +146,7 @@
         "age": 741,
         "married": true,
         "birthdate": "1280-08-21",
-        "favoriteImageUrl":  "https://www.wowhead.com/icon=955794/inv-staff-2h-draenorcrafted-d-02-c-alliance",
+        "profielImageUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Female_druid_elf.png",
         "honorLevel": "Animalistic",
         "hobby": ["camping", "praying", "raiding"],
         "Faction": {
@@ -166,9 +166,9 @@
         "age": 32,
         "married": false,
         "birthdate": "1995-03-11",
-        "favoriteImageUrl": "https://www.wowhead.com/icon=571330/inv-alliancepvpmount",
+        "profielImageUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Female_Mage.png",
         "honorLevel": "Legendary",
-        "hobby": ["pvp"],
+        "hobby": ["pvp", "pve"],
         "Faction": {
             "id": 1,
             "name": "The Alliance",
@@ -186,14 +186,14 @@
         "age": 37,
         "married": false,
         "birthdate": "1990-02-12",
-        "favoriteImageUrl":  "https://www.wowhead.com/icon=1499689/inv-mount-viciousalliancebearmount",
+        "profielImageUrl":  "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Deadknight_male.png",
         "honorLevel": "GodLike",
         "hobby": ["killing", "crusade"],
         "Faction": {
             "id": 2,
             "name": "Neutral",
             "guildmaster": "None",
-            "factionUrl": "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
+            "factionUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Neutral_flag.png",
             "foundedYear": 1400,
             "Moto": "LETS SEE WHO RULES"
         }

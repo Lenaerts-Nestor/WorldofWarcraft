@@ -22,14 +22,5 @@
         "factionUrl": "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
         "foundedYear": 1400,
         "Moto": "LETS SEE WHO RULES"
-    },
-    {
-        "id": 3,
-        "name": "The Legion",
-        "guildmaster": "Sargeras",
-        "factionUrl": "https://www.wowhead.com/icon=254117/achievement-dungeon-ulduarraid-titan-01",
-        "foundedYear": 0,
-        "Moto": "I AM LEGIONNN"
     }
-
 ]
