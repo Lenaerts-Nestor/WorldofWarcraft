@@ -3,7 +3,7 @@
         "id": 0,
         "name": "The Horde",
         "guildmaster": "Garrosh",
-        "factionUrl": "https://www.wowhead.com/icon=2173920/ui-hordeicon",
+        "factionUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Horde_flag.png",
         "foundedYear": 2010,
         "Moto": "LOKTHAR"
     },
@@ -11,7 +11,7 @@
         "id": 1,
         "name": "The Alliance",
         "guildmaster": "Anduin",
-        "factionUrl": "https://www.wowhead.com/icon=2565243/ui-alliance-7legionmedal",
+        "factionUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Alliance_flag.png",
         "foundedYear": 2010,
         "Moto": "The light is the way"
     },
@@ -19,7 +19,7 @@
         "id": 2,
         "name": "Neutral",
         "guildmaster": "None",
-        "factionUrl": "https://www.wowhead.com/icon=1260827/classicon-demonhunter",
+        "factionUrl": "https://raw.githubusercontent.com/Lenaerts-Nestor/WorldofWarcraft/main/Neutral_flag.png",
         "foundedYear": 1400,
         "Moto": "LETS SEE WHO RULES"
     }
